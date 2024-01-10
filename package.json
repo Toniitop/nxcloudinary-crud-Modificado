@@ -1,0 +1,23 @@
+{
+  "name": "nxcloudinary",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "cloudinary": "^1.41.0",
+    "next": "14.0.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1"
+  },
+  "description": "Esta aplicación realizada con NextJS 13+, muestra una galería de imágenes alojadas en Cloudinary.",
+  "main": "next.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
